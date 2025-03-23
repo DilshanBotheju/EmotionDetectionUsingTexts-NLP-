@@ -8,7 +8,7 @@ This project is an **NLP-based model** designed to detect emotions in textual da
 - **TF-IDF Vectorization:** Converts text into numerical features for model training.
 - **Sentiment Analysis:** Uses VADER sentiment analysis for additional feature extraction.
 - **Multi-class Classification:** Detects emotions such as **joy, sadness, anger, fear, love, and surprise**.
-- **Model Training:** Supports multiple ML models including **Logistic Regression and Random Forest.
+- **Model Training:** Supports multiple ML models including Logistic Regression and Random Forest.
 - **Pickle-based Model Storage:** Saves trained models and vectorizers for future inference.
 
 ## Installation & Setup
